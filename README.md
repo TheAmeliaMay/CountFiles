@@ -3,7 +3,7 @@ A Python script that counts the number of files in a directory. Just paste in th
 
 # Usage:
 
-python3 count_files.py -d <directory>
+    python3 count_files.py -d <directory>
 
 # To Do
 
