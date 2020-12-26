@@ -10,5 +10,3 @@ A Python script that counts the number of files in a directory. Just paste in th
 1. Add option to count folders
 
 2. Add option to count files in sub-folders
-
-3. Add parameter support
